@@ -13,6 +13,9 @@
     }
   ],
   "url": "https://mathjs.org",
+  "manifest": "https://raw.githubusercontent.com/Felipe-Alves-VNGX/mathjs-lib-foundry-v13/main/module.json",
+  "download": "https://github.com/Felipe-Alves-VNGX/mathjs-lib-foundry-v13/archive/refs/heads/main.zip",
+  "manifestPlusVersion": "1.2.0",
   "readme": "README.md",
   "license": "LICENSE",
   "esmodules": [
