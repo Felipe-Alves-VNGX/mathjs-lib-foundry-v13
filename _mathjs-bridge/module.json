@@ -1,0 +1,22 @@
+{
+  "id": "_mathjs-bridge",
+  "title": "Math.js Bridge (Foundry v13)",
+  "description": "Carrega math.js no navegador e expõe window.math para outros módulos.",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "12",
+    "verified": "13"
+  },
+  "authors": [
+    {
+      "name": "Felipe (bridge)"
+    }
+  ],
+  "url": "https://mathjs.org",
+  "readme": "README.md",
+  "license": "LICENSE",
+  "esmodules": [
+    "math.min.js",
+    "shim.js"
+  ]
+}
